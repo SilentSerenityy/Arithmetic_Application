@@ -1,4 +1,5 @@
-### Arithmetic Application
+### Arithmetic Application by Shadi Alostaz
+#### Last updated April 16th, 2021.
 
 
 This is an *Arithmetic Application* that I have coded in Python.
